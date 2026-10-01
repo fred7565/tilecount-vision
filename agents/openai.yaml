@@ -1,0 +1,7 @@
+interface:
+  display_name: "TileCount Vision"
+  short_description: "Auditable tile-by-tile counting for difficult images"
+  icon_large: "./assets/hero.png"
+  brand_color: "#16A34A"
+  default_prompt: "Use $tilecount-vision to count the requested objects in my selected image region and export per-tile evidence."
+
